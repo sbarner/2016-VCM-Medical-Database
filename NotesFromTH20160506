@@ -1,0 +1,27 @@
+Nice!  Ubuntu works nicely.  Definitely learning Unix and Linux system is a plus!!
+
+apt-get install the mysql-server.
+
+apt-get install nodejs OR get the node binaies from:  https://nodejs.org/en/download/
+*  unxz and then untar the file
+
+Technologies to pick up:
+* A little bit of javascript (MDN is great resource,https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* Node JS
+* How NPM works (very easy).
+
+NPM Modules to Use:
+* ExpressJS  (https://www.npmjs.com/package/express)
+* MySQL   (https://www.npmjs.com/package/mysql)
+* lodash
+*** https://www.npmjs.com/  Search for more modules.
+
+Javascript IDEs (opensource)
+* http://brackets.io/
+* https://code.visualstudio.com/
+* https://atom.io/
+* http://nuclide.io/
+** lots to choose from and they all work the same way, it's up to preference.
+
+Thanks,
+Tenzin
